@@ -1,0 +1,6 @@
+.DS_Store
+macos/.build/
+macos/.swiftpm/
+dist/
+__pycache__/
+claude-session
